@@ -1,0 +1,21 @@
+Python Veri Tipleri
+Metinsel Veri Tipleri : String(str)
+Sayısal Veri Tipleri : integer, float, complex
+Dizi Oluşturan Veri Tipleri : list, range, tuple
+Küme Oluşturan Veri Tipleri : set, frozenset
+Binary Veri Tipleri: bytes, bytearray,memoryview
+Mantıksal Operatör Veri Tipleri: boolean(bool)
+Adresleme Yapan Veri Tipleri : dict
+
+###################################################
+
+Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+Ödev1, Amaç, Açıkklama, Ödev Tanımı vb. alanlarında string ifadeler kullanılmıştır.
+Kategori, Eğitmen,profil alanında açılan menü listeleme alanlarını göstermek için List ve dict veri tipleri kullanılmıştır.
+Dersin tamamlanma yüzde değerlerini göstermede sayısal veri tipi olan integer, float, complex değerlerden yararlanılmıştır.
+Ayarlar ikonunda yer alan otomatik oynatma, otomatik tamamlama, önceki ders, bitir ve devam et vb. alanlar mantıksal Operatör veri tipi olan bool veri tipinden yararlanılmıştır.
+
+
+#######################################################
+Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz
+
